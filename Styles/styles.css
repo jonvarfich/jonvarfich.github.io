@@ -17,8 +17,10 @@ section{
 }
 
 h1{
+    flex-shrink: 0.2;
+    font-size-adjust: 0.2;
     color: rgb(0, 216, 0);
-    font-size: 10vh;
+    font-size: 5vw;
     text-align: center;
     font-family: 'Fira Mono', monospace;
     text-decoration: none;
@@ -30,7 +32,7 @@ span.text {
     color: rgb(0, 216, 0);
     font-family: 'Fira Mono', monospace;
     font-style: normal;
-    text-align: center;
+    text-align: justify;
 
 }
 
